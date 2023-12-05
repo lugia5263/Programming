@@ -2,6 +2,7 @@
 
 int main()
 {
+	//Â¥ÀÜ ¹Ù²î¾ú½À´Ï´Ù!!
 	char str[50];
 	int idx = 0;
 
